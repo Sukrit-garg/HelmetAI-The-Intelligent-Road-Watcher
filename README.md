@@ -65,8 +65,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 License
 This project is licensed under the MIT License.
 
-Acknowledgments
-YOLOv8 for object detection
-PaddleOCR for optical character recognition
-
-https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate
+Acknowledgments:
+- YOLOv8 for object detection
+- PaddleOCR for optical character recognition
+- https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate
